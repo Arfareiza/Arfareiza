@@ -54,7 +54,7 @@ Aku sedang membangun kemampuan sebagai **backend developer**, dengan fokus utama
 <p align="center">
   Terbuka untuk ngobrol soal Laravel, kolaborasi project, atau sekadar diskusi soal kode
   <br>
-  📩 email@kamu.com
+  📩 arfareiza32@gmail.com
 </p>
 
 <p align="center">
