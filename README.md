@@ -9,19 +9,29 @@ Kadang project selesai, kadang cuma jadi folder kosong di laptop 😅
 
 ### 🎮 Status Karakter
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="150" align="right">
+
+Kalau profil ini game, mungkin statusnya kira-kira begini:
+
 <img src="https://img.shields.io/badge/Level-Pemula-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/Class-Backend%20Developer-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/XP-Laravel%20%2B50-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Class-Backend%20Dev-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/XP-%2B50-brightgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/HP-Semangat%20Ngoding-red?style=for-the-badge">
 
+Masih level pemula, tapi XP-nya jalan terus tiap hari 🔥
+
+<br clear="right">
+
 ### 📈 Skill Progress
+
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="150" align="right">
 
 ![Laravel](https://progress-bar.xyz/70/?title=Laravel&width=250&color=FF2D20)
 ![Tailwind](https://progress-bar.xyz/60/?title=Tailwind%20CSS&width=250&color=38B2AC)
 ![MySQL](https://progress-bar.xyz/45/?title=MySQL&width=250&color=4479A1)
 ![JavaScript](https://progress-bar.xyz/35/?title=JavaScript&width=250&color=F7DF1E)
 
-<br>
+<br clear="right">
 
 Awalnya cuma coba-coba ikut tutorial Laravel, eh malah keterusan sampai sekarang jadi project utama belajar.
 Tiap ada waktu luang, biasanya dipakai buat ngoprek Laravel + Tailwind.
