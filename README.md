@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Membangun+aplikasi+web+dengan+Laravel;Merapikan+UI+dengan+Tailwind+CSS;Terus+belajar%2C+terus+berkembang" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4b0082&height=200&section=header&text=Arfareiza&fontSize=48&fontColor=e0e0e0&animation=fadeIn&desc=Backend%20Developer%20%7C%20Laravel%20%26%20Tailwind%20CSS&descAlignY=60&descSize=18&descColor=a29bd9" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B0000&background=00000000&center=true&vCenter=true&width=500&lines=Membangun+aplikasi+web+dengan+Laravel;Merapikan+UI+dengan+Tailwind+CSS;Terus+belajar%2C+terus+berkembang" />
 </p>
