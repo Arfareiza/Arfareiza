@@ -11,7 +11,7 @@
   ·
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
   ·
-  <a href="https://www.instagram.com/@faaarza_">Instagram</a>
+  <a href="https://www.instagram.com/faaarza_?igsh=bTdsM2JxcDlwaGxp">Instagram</a>
   ·
   <a href="mailto:arfareiza32@gmail.com">Email</a>
 </p>
