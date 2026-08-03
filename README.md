@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https:">Portfolio</a>
   ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/arfa-reiza-168079371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
   ·
   <a href="https://www.instagram.com/faaarza_?igsh=bTdsM2JxcDlwaGxp">Instagram</a>
   ·
