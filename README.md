@@ -43,7 +43,7 @@ Tiap ada waktu luang, biasanya dipakai buat ngoprek Laravel + Tailwind.
 
 ---
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arfareiza&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Arfareiza&show_icons=true&theme=tokyonight&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arfareiza&theme=tokyonight&hide_border=true)
 
 ### 🐍 Aktivitas Kontribusi
